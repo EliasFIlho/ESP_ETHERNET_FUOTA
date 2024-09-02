@@ -15,7 +15,17 @@
     "idf.toolsPath": "/home/elias/.espressif",
     "files.associations": {
         "esp_eth.h": "c",
-        "esp_eth_driver.h": "c"
+        "esp_eth_driver.h": "c",
+        "gpio.h": "c",
+        "esp_https_ota.h": "c",
+        "spi_master.h": "c",
+        "nvs_flash.h": "c",
+        "freertos.h": "c",
+        "esp_netif.h": "c",
+        "task.h": "c",
+        "ethernet.h": "c",
+        "esp_log.h": "c",
+        "led.h": "c"
     },
     "idf.flashType": "UART",
     "idf.gitPath": "git"
