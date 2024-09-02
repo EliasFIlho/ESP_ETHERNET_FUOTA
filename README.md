@@ -29,6 +29,12 @@ Below is short explanation of remaining files in the project folder.
 ├── main
 │   ├── CMakeLists.txt
 │   └── main.c
+|   └── ethernet.c
+|   └── ethernet.h
+|   └── led.c
+|   └── led.h
+|   └── http_ota.c
+|   └── http_ota.h
 └── README.md                  This is the file you are currently reading
 ```
 Additionally, the sample project contains Makefile and component.mk files, used for the legacy Make based build system. 
